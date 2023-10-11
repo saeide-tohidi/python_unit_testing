@@ -1,5 +1,5 @@
 import unittest
-from second_challenge import Car
+from one.projects.second_challenge import Car
 
 
 class EasyTestCase(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from second_project import Counter
+from one.projects.second_project import Counter
 
 
 class EasyTestCase(unittest.TestCase):

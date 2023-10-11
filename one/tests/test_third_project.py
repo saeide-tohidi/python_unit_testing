@@ -1,7 +1,7 @@
 import sys
 from io import StringIO
 import unittest
-from third_project import Profile
+from one.projects.third_project import Profile
 
 
 class TestPrintedInput(unittest.TestCase):

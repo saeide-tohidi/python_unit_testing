@@ -1,7 +1,7 @@
 import sys
 import unittest
 from io import StringIO
-from challenge_3 import Printer
+from one.projects.challenge_3 import Printer
 
 
 class TestPrintedOutPut(unittest.TestCase):
