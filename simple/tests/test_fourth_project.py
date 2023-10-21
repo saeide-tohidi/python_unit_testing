@@ -1,6 +1,6 @@
 import time
 import unittest
-from one.projects.fourth_project import FibonacciSequence
+from simple.projects.fourth_project import FibonacciSequence
 
 
 class TestEfficiency(unittest.TestCase):

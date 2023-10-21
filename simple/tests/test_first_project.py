@@ -1,5 +1,5 @@
 import unittest
-from one.projects.first_project import avg
+from simple.projects.first_project import avg
 
 
 class EasyTestCase(unittest.TestCase):

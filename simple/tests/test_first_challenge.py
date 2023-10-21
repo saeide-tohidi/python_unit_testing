@@ -1,5 +1,5 @@
 import unittest
-from one.projects.first_challenge import counter
+from simple.projects.first_challenge import counter
 
 
 class EasyTestCase(unittest.TestCase):
